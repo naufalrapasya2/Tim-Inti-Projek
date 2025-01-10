@@ -12,7 +12,8 @@ body {
 }
 
 header {
-    background: #35424a;
+    background-image: #35424a;
+    height: 100vh;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
